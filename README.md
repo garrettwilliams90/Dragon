@@ -2,7 +2,7 @@
 
 Phase 3 Project, Flatiron
 
-![Tanzania_Water_Well.jpeg](attachment:Tanzania_Water_Well.jpeg)
+![Tanzania_Water_Well.jpeg](Images/Tanzania_Water_Well.jpeg)
 
 ## Overview
 
