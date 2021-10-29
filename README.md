@@ -89,7 +89,7 @@ Our final model that performed best was a Random Tree Classifier with class_weig
 
 ## For more information
 
-You can click on the link to find our [jupyter notebook](https://github.com/PattiCakes59/Dragon/blob/main/MainNotebookDragon.ipynb)  and our [presentation slides](https://docs.google.com/presentation/d/114d5e4-CoI1ML41DSjJ0ZKRnU85FKTr4EjqDeDaVU9I/edit#slide=id.p). For can also go this [website](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) to get the source of our data. And you can find our contact information below if you have any questions or comments.
+You can click on the link to find our [jupyter notebook](https://github.com/PattiCakes59/Dragon/blob/main/MainNotebookDragon.ipynb)  and our [presentation slides](https://docs.google.com/presentation/d/114d5e4-CoI1ML41DSjJ0ZKRnU85FKTr4EjqDeDaVU9I/edit#slide=id.p). You can also go this [website](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) to get the source of our data. And you can find our contact information below if you have any questions or comments.
 - Garrett Williams: garrettwilliams90@gmail.com and https://github.com/garrettwilliams90
 - Teigen Olsen: Teigenolson@gmail.com and https://github.com/teigen30
 - Patrick Ryan: patrick_m_ryan@outlook.com and https://github.com/PattiCakes59
