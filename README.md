@@ -55,7 +55,7 @@ We each ran multiple models while tuning the hyperparameters in order to achieve
 - What model type is most appropriate, given the data and the business problem?
     - Since the target is binary, our models will be classification. And since our goal is to deliver a model and not just analysis, we care little about how to interpret the model. This means that we aren't limited to logistic regression or a simple decision tree, both of which are easy for interpretation. We can run complicated, non-parametric models like a K nearest neighbors or Random Forest Classifier model. 
     
-![Screen%20Shot%202021-10-28%20at%2011.41.45%20AM.png](attachment:Screen%20Shot%202021-10-28%20at%2011.41.45%20AM.png)
+![https://github.com/PattiCakes59/Dragon/blob/Garrett/Images/Final_model_confusion_matrix_normalized.png](attachment:https://github.com/PattiCakes59/Dragon/blob/Garrett/Images/Final_model_confusion_matrix_normalized.png)
 
 ## Evaluation 
 
