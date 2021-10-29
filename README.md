@@ -86,3 +86,10 @@ Our final model that performed best was a Random Tree Classifier with class_weig
     - Lack of enough information might be one reason why our model doesn't solve the business problem. There might also be some underlying social-economic factors that aren't accounted for in the data. 
 - What else could you do in the future to improve this project (future work)?
     - We could spend more time preparing the data in order to clean it more. We could also run more models with larger Grid Searches if we had more time. Lastly, we could run more complex models like Neural Networks if we had time to gain expertise on using them or hire an outsider who is fluent in neural networking code.
+
+## For more information
+
+You can click on the link to find our [jupyter notebook](https://github.com/PattiCakes59/Dragon/blob/main/MainNotebookDragon.ipynb)  and our [presentation slides](https://docs.google.com/presentation/d/114d5e4-CoI1ML41DSjJ0ZKRnU85FKTr4EjqDeDaVU9I/edit#slide=id.p). For can also go this [website](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) to get the source of our data. And you can find our contact information below if you have any questions or comments.
+- Garrett Williams: garrettwilliams90@gmail.com and https://github.com/garrettwilliams90
+- Teigen Olsen: Teigenolson@gmail.com and https://github.com/teigen30
+- Patrick Ryan: patrick_m_ryan@outlook.com and https://github.com/PattiCakes59
