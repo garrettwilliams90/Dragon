@@ -6,7 +6,7 @@ Phase 3 Project, Flatiron
 
 ## Overview
 
-For our project, we wanted to deliver a model to the government of Tanzania to help them predict the functionality of water wells. We used data from 59,400 wells that were previously recorded. Since the target was binary, we tried multiple classification models. Our final model ended up being a Random Forest Tree classifier. It had a precision score of 0.8 and was also not overfit to the training data. We focused on precision because we wanted to minimize the cost of a false positive result. In the end, we recommend the government of Tanzania us our model to predict the functionality of wells that it hasn't seen, and to take note of important features in case it wants to build more water wells in the future. 
+For our project, we wanted to deliver a model to the government of Tanzania to help them predict the functionality of water wells. We used data from 59,400 wells that were previously recorded. Since the target was binary, we tried multiple classification models. Our final model ended up being a Random Forest Tree classifier. It had a precision score of 0.8 and was also not overfit to the training data. We focused on precision because we wanted to minimize the cost of a false positive result. In the end, we recommend the government of Tanzania use our model to predict the functionality of wells that it hasn't seen, and to take note of important features in case it wants to build more water wells in the future. 
 
 ## Business Problem
 
